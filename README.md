@@ -12,7 +12,7 @@
 ###
 
 <div align="center">
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=MakhmudovAF)](https://git.io/streak-stats)
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=MakhmudovAF&theme=onedark" alt="GitHub Streak" />
 </div>
 
 ###
