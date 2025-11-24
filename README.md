@@ -11,6 +11,8 @@
 
 ###
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=MakhmudovAF)](https://git.io/streak-stats)
+<div align="center">
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=MakhmudovAF)](https://git.io/streak-stats)
+</div>
 
 ###
