@@ -12,7 +12,7 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=MakhmudovAF&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=MakhmudovAF&theme=onedark" alt="GitHub Streak" />
 </div>
 
 ###
