@@ -11,6 +11,6 @@
 
 ###
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MakhmudovAF&theme=onedark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=MakhmudovAF)](https://git.io/streak-stats)
 
 ###
